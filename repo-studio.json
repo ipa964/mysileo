@@ -1,0 +1,17 @@
+{
+  "label": "Repo Studio Source",
+  "description": "A Sileo-compatible package repository managed by Repo Studio.",
+  "architectures": [
+    "iphoneos-arm64",
+    "iphoneos-arm64e",
+    "iphoneos-arm",
+    "all",
+    "arm64",
+    "arm64e"
+  ],
+  "featuredTitle": "",
+  "featuredPackage": "",
+  "featuredImage": "",
+  "engine": "browser",
+  "workflow": false
+}
