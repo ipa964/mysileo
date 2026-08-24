@@ -2,19 +2,19 @@ Origin: Repo Studio Source
 Label: Repo Studio Source
 Suite: stable
 Codename: stable
-Date: Mon, 24 Aug 2026 05:48:55 GMT
+Date: Mon, 24 Aug 2026 06:12:37 GMT
 Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm all
 Components: main
 Description: A Sileo-compatible package repository managed by Repo Studio.
 MD5Sum:
- c885a24edcc6d6da9ce700c55cbc634f             1389 Packages
- acf7b2f5452216dcfa28788139ff1432              993 Packages.bz2
- a818f6653eaf4f3540a7d735b1e05156              835 Packages.gz
+ c4d0b8a94397cf4a39ec77cec209bfb6              499 Packages
+ 0d66a81b47c1048e6aa3afd326ba4c83              424 Packages.bz2
+ 197deb2efc8906df4e4823060f020421              378 Packages.gz
 SHA1:
- 3513cbd00cd60790f1aa35ceaa91f88fc1a25095             1389 Packages
- 99f6c99b611e028154f0b1bd093cef957ad2a32b              993 Packages.bz2
- 915e06114596e830674e56117feeb6fb34d682fc              835 Packages.gz
+ f2b4b29af0ccdaae59db10731faa28fc722f27f2              499 Packages
+ 6d673238c35b6f0702ac2bb9af21aedf5c0b387a              424 Packages.bz2
+ ef18217d6721a743b797c7e59f574857273a33c7              378 Packages.gz
 SHA256:
- 673c01525c6d7deada8483c140e886b008dd3203748981b9415920415a5ba61e             1389 Packages
- bb332373297708fcf0bd9a89292a9586b19ad6b53fcbffcefc598d86413d493f              993 Packages.bz2
- 5bfee9dd17fb32cbb2863117fdd823dce39d9c63f86a48a78390c9177ba94038              835 Packages.gz
+ 5c45897b91fd21af534b4e0e7b5f54036e05f3feb2509c7cc94ecdf76027182d              499 Packages
+ fd791158b87590a0b9b8b1ed93423b76890e0ec212598bc8342aac4464574c90              424 Packages.bz2
+ a90ad839f698e6a5e47f9e999edbbd8426d28643ab0d5ab10b0ab3150d7b35e6              378 Packages.gz
