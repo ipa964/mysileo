@@ -2,8 +2,8 @@ Origin: Repo Studio Source
 Label: Repo Studio Source
 Suite: stable
 Codename: stable
-Date: Mon, 24 Aug 2026 04:21:44 GMT
-Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm all arm64 arm64e
+Date: Mon, 24 Aug 2026 04:38:06 GMT
+Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm all
 Components: main
 Description: A Sileo-compatible package repository managed by Repo Studio.
 MD5Sum:
