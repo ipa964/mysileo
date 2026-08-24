@@ -5,9 +5,7 @@
     "iphoneos-arm64",
     "iphoneos-arm64e",
     "iphoneos-arm",
-    "all",
-    "arm64",
-    "arm64e"
+    "all"
   ],
   "featuredTitle": "",
   "featuredPackage": "",
